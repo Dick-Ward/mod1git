@@ -1,7 +1,7 @@
 
 
  def hi(name)
-   puts "yo #{name}"
+   puts "Yo #{name}"
  end
 
  def says_hi_ten_times(name)
@@ -10,11 +10,6 @@
    end
  end
 
- def
-
-def run_program
-  name = gets.chomp
-  says_hi_ten_times(name)
-end
-
-run_program
+ def ask_name
+   puts "Yo, what's your name?"
+ end
