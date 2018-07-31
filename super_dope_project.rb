@@ -11,5 +11,5 @@
  end
 
  def ask_name
-   puts "Yo, what's your name?"
+   puts "Hey there stranger, what's your name?"
  end
