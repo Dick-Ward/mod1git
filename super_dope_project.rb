@@ -10,6 +10,6 @@
    end
  end
 
- def ask_name
+ def demand_name
    puts "Yo, what's your name?"
  end
