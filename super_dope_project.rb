@@ -6,7 +6,7 @@
 
  def says_hi_ten_times(name)
    10.times do
-     hi(name)
+     hi(name + "!")
    end
  end
 
